@@ -11,4 +11,6 @@ public class Git {
     // git add <Path>   Path - путь к файлу
     // git commit -m "какое-то сообщение"    снимок программы с сообщением
     // git log - отображение всех комитов
+    // git clean -n выделить untracked files
+    // git clean -fd удалить выделенные файлы
 }
