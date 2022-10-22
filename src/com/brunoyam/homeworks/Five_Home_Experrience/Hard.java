@@ -11,8 +11,24 @@ public class Hard {
         for(int i = 0 ; i < array.length ; i++){
             array[i] = random.nextInt(101);
         }
+
         System.out.println("Массив до сортировки - " + Arrays.toString(array));
-        Arrays.sort(array);
+        Hard hard = new Hard();
+        hard.bubbleSort(array);
         System.out.println("Массив после сортировки - " + Arrays.toString(array));
     }
+    public void bubbleSort(int[] a){
+        for (int i = a.length - 1 ; i > 0 ; i--){
+            for (int j = 0 ; j < i ; j++) {
+                if(a[j] > a[j + 1]){
+                     int temp = a[j];
+                     a[j] = a[j+1];
+                     a[j+1] = temp;
+
+                }
+            }
+        }
+
+    }
+
 }

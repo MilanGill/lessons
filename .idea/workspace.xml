@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4764903-be4d-45bf-9a37-4233dbe970c7" name="Changes" comment="&lt;Мой первый репозиторий&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Moya_Sortirovka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Moya_Sortirovka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Hard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Moya_Sortirovka">
+  <component name="RunManager" selected="Application.Hard">
     <configuration name="Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson6.Classes" />
       <module name="My_Programs" />
@@ -111,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Moya_Sortirovka" />
         <item itemvalue="Application.Hard" />
+        <item itemvalue="Application.Moya_Sortirovka" />
         <item itemvalue="Application.Normal" />
         <item itemvalue="Application.Easy" />
         <item itemvalue="Application.Classes" />
