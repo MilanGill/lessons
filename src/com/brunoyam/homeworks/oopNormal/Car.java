@@ -1,4 +1,4 @@
-package com.brunoyam.homeworks.OOPNORMAL;
+package com.brunoyam.homeworks.oopNormal;
 
 public class Car {
     public Car(String brand_of_car, String class_of_car, double weight_of_car, String fio, int driving_experince,double power, double effiency) {
