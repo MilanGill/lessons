@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4764903-be4d-45bf-9a37-4233dbe970c7" name="Changes" comment="&lt;Мой первый репозиторий&gt;">
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Normal_Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Normal_Two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +43,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Hard">
-    <configuration name="Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson6.Classes" />
+  <component name="RunManager" selected="Application.Easy_Two">
+    <configuration name="Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.Five_Home_Experrience.Easy" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson6.*" />
+          <option name="PATTERN" value="com.brunoyam.homeworks.Five_Home_Experrience.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.Five_Home_Experrience.Easy" />
+    <configuration name="Easy_Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.Five_Home_Experrience.Easy_Two" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy_Two" />
         <item itemvalue="Application.Hard" />
         <item itemvalue="Application.Moya_Sortirovka" />
         <item itemvalue="Application.Normal" />
         <item itemvalue="Application.Easy" />
-        <item itemvalue="Application.Classes" />
       </list>
     </recent_temporary>
   </component>
