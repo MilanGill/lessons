@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e4764903-be4d-45bf-9a37-4233dbe970c7" name="Changes" comment="&lt;Мой первый репозиторий&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/Five_Home_Experrience/Easy_Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopEasy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopHard/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopHard/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopHard/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopHard/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopHard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopHard/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopHard/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopHard/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopHard/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopHard/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopNormal/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopNormal/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopNormal/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopNormal/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopNormal/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopNormal/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oopNormal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/oop/oopNormal/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +42,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.brunoyam.homeworks.oop.oopNormal.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.oop.oopAdditionally.Main" />
+      <module name="My_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brunoyam.homeworks.oop.oopAdditionally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Normal_Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.Five_Home_Experrience.Normal_Two" />
       <module name="My_Programs" />
@@ -105,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.brunoyam.lessons.lesson7.statickeyword.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson7.statickeyword.Main" />
-      <module name="My_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson7.statickeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.brunoyam.homeworks.oop.oopNormal.Main" />
         <item itemvalue="Application.com.brunoyam.homeworks.oop.oopHard.oopNormal.Main" />
         <item itemvalue="Application.Normal_Two" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson7.constructors.Main" />
-        <item itemvalue="Application.com.brunoyam.lessons.lesson7.statickeyword.Main" />
       </list>
     </recent_temporary>
   </component>
