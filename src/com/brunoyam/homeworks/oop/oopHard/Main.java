@@ -37,8 +37,8 @@ public class Main {
             if (name_of_purchased_book.equals(i.getName())){
                 System.out.print("Вы купили книгу ");
                 System.out.println(i);
+                purchased_book[0]=i;
                 basket.setPurchased_products(purchased_book);
-                basket.getPurchased_products()[0] = i;
             }
         }
         User user = new User();
