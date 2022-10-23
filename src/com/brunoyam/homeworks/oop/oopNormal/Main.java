@@ -1,4 +1,4 @@
-package com.brunoyam.homeworks.oopNormal;
+package com.brunoyam.homeworks.oop.oopNormal;
 
 public class Main {
     public static void main(String[] args) {

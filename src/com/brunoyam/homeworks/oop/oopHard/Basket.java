@@ -1,4 +1,4 @@
-package com.brunoyam.homeworks.oopHard;
+package com.brunoyam.homeworks.oop.oopHard;
 
 public class Basket {
    public Product[] purchased_products;

@@ -1,4 +1,4 @@
-package com.brunoyam.homeworks.oopNormal;
+package com.brunoyam.homeworks.oop.oopNormal;
 
 public class Car {
     public Car(String brand_of_car, String class_of_car, double weight_of_car, String fio, int driving_experince,double power, double effiency) {
@@ -31,12 +31,10 @@ public class Car {
     }
     public String toString(){
         return (
-            "Марка автомобился " + brand_of_car + "\n" +
-             "Класс автомобился " + class_of_car + "\n" +
+                "Марка автомобился " + brand_of_car + "\n" +
+                "Класс автомобился " + class_of_car + "\n" +
                 "Вес автомобиля " + weight_of_car + "\n" +
-                    "ФИО Водителя " + driver.getFio() + "\n" +
-                    "Стаж вождения " + driver.getDriving_experience() + "\n" +
-                    "Производитель мотора " + engine.getEfficiency() + "\n" +
-                    "Можность мотора " + engine.getPower() + "\n");
+                driver.toString() +
+                engine.toString());
     }
 }

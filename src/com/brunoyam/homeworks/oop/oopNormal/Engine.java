@@ -1,4 +1,4 @@
-package com.brunoyam.homeworks.oopNormal;
+package com.brunoyam.homeworks.oop.oopNormal;
 
 public class Engine {
     private double power;
@@ -18,5 +18,8 @@ public class Engine {
 
     public void setEfficiency(double efficiency) {
         this.efficiency = efficiency;
+    }
+    public String toString(){
+        return "Мощность:" + power + " Производительность:" + efficiency;
     }
 }

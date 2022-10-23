@@ -1,6 +1,6 @@
-package com.brunoyam.homeworks.Five_Home_Experrience;
+package com.brunoyam.homeworks.oop;
 
-public class Easy_Two {
+public class oopEasy {
     public static void main(String[] args) {
     Person Katya = new Person();
     Katya.fullName = "Катюша";

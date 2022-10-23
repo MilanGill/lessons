@@ -1,4 +1,4 @@
-package com.brunoyam.homeworks.oopNormal;
+package com.brunoyam.homeworks.oop.oopNormal;
 
 public class Driver {
     private String fio;
@@ -18,5 +18,8 @@ public class Driver {
 
     public void setDriving_experience(int driving_experience) {
         this.driving_experience = driving_experience;
+    }
+    public String toString(){
+        return fio + " " + driving_experience + " - стаж вождения   ";
     }
 }

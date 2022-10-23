@@ -1,6 +1,5 @@
-package com.brunoyam.homeworks.oopHard;
+package com.brunoyam.homeworks.oop.oopHard;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
