@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4764903-be4d-45bf-9a37-4233dbe970c7" name="Changes" comment="&lt;Мой первый репозиторий&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/seven_homework/flowers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/seven_homework/flowers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.com.brunoyam.homeworks.seven_homework.flowers.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FinalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson8.FinalKeyword" />
       <module name="My_Programs" />
@@ -60,11 +65,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.oop.oopAdditionally.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.seven_homework.hard.Main" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.oop.oopAdditionally.*" />
+          <option name="PATTERN" value="com.brunoyam.homeworks.seven_homework.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.brunoyam.lessons.lesson7.statickeyword.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson7.statickeyword.Main" />
+    <configuration name="com.brunoyam.homeworks.seven_homework.normal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.seven_homework.normal.Main" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson7.statickeyword.*" />
+          <option name="PATTERN" value="com.brunoyam.homeworks.seven_homework.normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.brunoyam.homeworks.seven_homework.normal.Main" />
         <item itemvalue="Application.com.brunoyam.homeworks.seven_homework.flowers.Main" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson8.supereyword.Main" />
         <item itemvalue="Application.FinalKeyword" />
-        <item itemvalue="Application.com.brunoyam.lessons.lesson7.statickeyword.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -8,7 +8,7 @@ public class Main {
         Flower[] buket2 = new Flower[2];
         Flower[] buket3 = new Flower[3];
 
-        Flower rose = new Roses("Китай",14,300);
+         Flower rose = new Roses("Китай",14,300);
         Flower tulip = new Tulips("Россия",20,250);
         Flower carnation = new Carnations("Япония",7,400);
         Flower tulip2 = new Tulips("Китай", 30,500);
