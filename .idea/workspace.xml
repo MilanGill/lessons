@@ -55,39 +55,13 @@
       <recent name="C:\Users\Милан Гилл Сингх\Desktop\My Programms Java\My_Programs\src\com\brunoyam\lessons\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.brunoyam.lessons.lesson9.abstractclasses.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.seven_homework.hard.Main" />
+  <component name="RunManager" selected="Application.com.brunoyam.lessons.lesson9.enums.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson9.interfaces.ex1.Demo" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.seven_homework.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.brunoyam.homeworks.seven_homework.flowers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.seven_homework.flowers.Main" />
-      <module name="My_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.seven_homework.flowers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.brunoyam.homeworks.seven_homework.normal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.seven_homework.normal.Main" />
-      <module name="My_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.seven_homework.normal.*" />
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson9.interfaces.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.brunoyam.lessons.lesson9.enums.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson9.enums.Demo" />
+      <module name="My_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson9.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.brunoyam.lessons.lesson9.interfaces.ex2.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson9.interfaces.ex2.Demo" />
+      <module name="My_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson9.interfaces.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.brunoyam.lessons.lesson9.enums.Demo" />
+        <item itemvalue="Application.com.brunoyam.lessons.lesson9.interfaces.ex2.Demo" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson9.abstractclasses.Main" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson7.inheritance.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.brunoyam.homeworks.seven_homework.normal.Main" />
-        <item itemvalue="Application.com.brunoyam.homeworks.seven_homework.flowers.Main" />
       </list>
     </recent_temporary>
   </component>
