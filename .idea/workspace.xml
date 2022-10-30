@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4764903-be4d-45bf-9a37-4233dbe970c7" name="Changes" comment="&lt;Мой первый репозиторий&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brunoyam/homeworks/seven_homework/flowers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brunoyam/homeworks/seven_homework/flowers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Милан Гилл Сингх/Desktop/My Programms Java/My_Programs/src/com/brunoyam/lessons/lesson9",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Милан Гилл Сингх/Desktop/My Programms Java/My_Programs/src/com/brunoyam/lessons/lesson9&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Милан Гилл Сингх\Desktop\My Programms Java\My_Programs\src\com\brunoyam\lessons\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.brunoyam.lessons.lesson9.enums.Demo">
+  <component name="RunManager" selected="Application.Recursive">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson9.interfaces.ex1.Demo" />
       <module name="My_Programs" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.brunoyam.lessons.lesson7.inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson7.inheritance.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.seven_homework.flowers.Main" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson7.inheritance.*" />
+          <option name="PATTERN" value="com.brunoyam.homeworks.seven_homework.flowers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.brunoyam.lessons.lesson9.abstractclasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson9.abstractclasses.Main" />
+    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson10.Recursive" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson9.abstractclasses.*" />
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursive" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson9.enums.Demo" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson9.interfaces.ex2.Demo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.com.brunoyam.lessons.lesson9.abstractclasses.Main" />
-        <item itemvalue="Application.com.brunoyam.lessons.lesson7.inheritance.Main" />
       </list>
     </recent_temporary>
   </component>
