@@ -7,7 +7,8 @@ public class Main {
 
         try {
             System.out.println("8 : 0 = " + MathUtil.divide(8,0));
-        } catch (CheckedArithmeticException divideByZero) {    // обработка исключения
+        }
+         catch (CheckedArithmeticException | TestException divideByZero) {    // обработка исключения
             System.out.println(divideByZero.getMessage());    // то, что мы делаем когда поймали Exception
         } finally { // выполняется в любом случае
             System.out.println("After try-catch");
