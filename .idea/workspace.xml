@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,7 +55,7 @@
       <recent name="C:\Users\Милан Гилл Сингх\Desktop\My Programms Java\My_Programs\src\com\brunoyam\lessons\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Collections">
+  <component name="RunManager" selected="Application.com.brunoyam.lessons.lesson12.exceptions.Main">
     <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson11.Collections" />
       <module name="My_Programs" />
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.sorting.MergeSorting" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson12.miltithreading.Main" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.sorting.*" />
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson12.miltithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingByChoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.sorting.SortingByChoice" />
+    <configuration name="com.brunoyam.lessons.lesson12.exceptions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson12.exceptions.Main" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.sorting.*" />
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson12.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingByInserts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.sorting.SortingByInserts" />
+    <configuration name="com.brunoyam.lessons.lesson12.lyambda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson12.lyambda.Main" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.homeworks.sorting.*" />
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson12.lyambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.brunoyam.lessons.lesson12.exceptions.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.brunoyam.lessons.lesson12.lyambda.Main" />
         <item itemvalue="Application.Collections" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.MergeSorting" />
-        <item itemvalue="Application.SortingByInserts" />
-        <item itemvalue="Application.SortingByChoice" />
       </list>
     </recent_temporary>
   </component>

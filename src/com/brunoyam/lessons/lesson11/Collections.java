@@ -2,7 +2,7 @@ package com.brunoyam.lessons.lesson11;
 
 
 import java.util.*;
-
+// TODO Коллекции (Map,Set,List,Queue)
 public class Collections {
     public static void main(String[] args) {
         Map<String,Integer> persons = new LinkedHashMap<>();
