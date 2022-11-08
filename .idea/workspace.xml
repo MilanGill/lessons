@@ -55,26 +55,13 @@
       <recent name="C:\Users\Милан Гилл Сингх\Desktop\My Programms Java\My_Programs\src\com\brunoyam\lessons\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.brunoyam.lessons.lesson12.exceptions.Main">
-    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson11.Collections" />
+  <component name="RunManager" selected="Application.com.brunoyam.homeworks.collections.Main">
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson3.Loops" />
       <module name="My_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson11.Demo" />
-      <module name="My_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson11.*" />
+          <option name="PATTERN" value="com.brunoyam.lessons.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +75,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brunoyam.lessons.lesson12.miltithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.brunoyam.homeworks.collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.collections.Main" />
+      <module name="My_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brunoyam.homeworks.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.brunoyam.homeworks.collections.Main" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson12.exceptions.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.brunoyam.lessons.lesson12.lyambda.Main" />
-        <item itemvalue="Application.Collections" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
