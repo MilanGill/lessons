@@ -1,6 +1,5 @@
 package com.brunoyam.homeworks.collections;
 
-import java.util.Arrays;
 
 public class ArrayListClass {
     private int arr[];
