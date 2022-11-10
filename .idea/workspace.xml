@@ -55,20 +55,7 @@
       <recent name="C:\Users\Милан Гилл Сингх\Desktop\My Programms Java\My_Programs\src\com\brunoyam\lessons\lesson9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.brunoyam.homeworks.practicalTasksOfTheCollection.Task3.Runner">
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brunoyam.lessons.lesson3.Loops" />
-      <module name="My_Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brunoyam.lessons.lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.brunoyam.homeworks.threats.easy.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.practicalTasksOfTheCollection.Task1.Runner" />
       <module name="My_Programs" />
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.brunoyam.homeworks.threats.easy.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brunoyam.homeworks.threats.easy.Runner" />
+      <module name="My_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brunoyam.homeworks.threats.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.brunoyam.homeworks.threats.easy.Runner" />
         <item itemvalue="Application.com.brunoyam.homeworks.practicalTasksOfTheCollection.Task3.Runner" />
         <item itemvalue="Application.com.brunoyam.homeworks.practicalTasksOfTheCollection.Task2.Main" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.com.brunoyam.homeworks.collections.Main" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
